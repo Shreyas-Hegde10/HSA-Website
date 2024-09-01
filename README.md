@@ -4,7 +4,7 @@
 Welcome to the official website of the Turner Fenton Hindu Student Association! This repository contains the codebase for our website, designed to provide information about our association, events, and activities.
 
 ## Website Link
-You can access the website at: https://shreyas-hegde10.github.io/HSA-Website/index.html
+You can access the website at: https://shreyas-hegde10.github.io/HSA-Website/ 
 
 ## Overview
 This website was built using the following technologies:
